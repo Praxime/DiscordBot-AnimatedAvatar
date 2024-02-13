@@ -9,6 +9,6 @@ a code to change your bot profile to a animated one!
 4. You are done! open ```cmd``` in the file directory and write ```node Animated_Profile.js```.
 5. When it compeletes the progress, You can close the _Command Prompt_ and Enjoy your new Animated Profile!
 # ❔ | Fact
-1. You can use any Media(Picture and Gif) for your bot, not only the animated one!
+1. You can use any Media(Picture and Gif) for your bot, not only the animated one! just change the format of file in "_Line 10_".
 # ❤️ | Support
 Support me by giving a **little star** to this Repo! <3
