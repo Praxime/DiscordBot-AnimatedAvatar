@@ -1,5 +1,5 @@
 # 🤖 | Discord Bot Animated Profile
-a code to change your bot profile to a animated one!
+a code to change your discord bot profile to a animated one!
 # 🚧 | Requirements
 1. Nodejs
 # 👞 | Steps
