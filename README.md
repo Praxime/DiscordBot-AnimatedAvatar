@@ -1,3 +1,4 @@
+# [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 # 🤖 | Discord Bot Animated Profile
 a code to change your discord bot profile to a animated one! well, normally u cannot change your bot profile to GIF on discord.com/developers (Discord Developer Portal).
 # 🚧 | Requirements
