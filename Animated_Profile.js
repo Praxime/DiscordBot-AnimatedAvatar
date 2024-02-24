@@ -37,4 +37,4 @@ client.login(
     } catch (error) {
         console.error("There is a unexpected error:", error);
     };
-})();
+});
